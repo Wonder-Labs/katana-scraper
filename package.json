@@ -1,0 +1,13 @@
+{
+  "name": "ai-browser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lucas Negritto <lucas.negritto@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@postlight/mercury-parser": "^2.2.1",
+    "graph-data-structure": "^2.0.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^13.1.3"
+  }
+}
